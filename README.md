@@ -9,6 +9,7 @@ changes:
 - removed `umount_dmenu`
 - limited udev rules to `usb` subsystem
 - changed install file perms
+- Add LICENSE (from arch/aur PKGBUILD)
 
 ## Orginal Description
 
