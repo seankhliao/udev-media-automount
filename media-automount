@@ -39,7 +39,7 @@ then
 	fi
     else
 	log "device doesn't exist anymore or is not a block device: $dev"
-	exitcode=1
+	exitcode=0
     fi
 
     # cleanup

@@ -7,7 +7,7 @@ from [Ferk/udev-media-automount](https://github.com/ferk/udev-media-automount)
 changes:
 
 - removed `umount_dmenu`
-- limited udev rules to `usb` subsystem
+- changed exit code for nonexistent devices
 - changed install file perms
 - Add LICENSE (from arch/aur PKGBUILD)
 
